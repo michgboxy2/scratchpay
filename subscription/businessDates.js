@@ -1,0 +1,1 @@
+exports.BUSINESS_DATE = 'BUSINESS_DATE';
